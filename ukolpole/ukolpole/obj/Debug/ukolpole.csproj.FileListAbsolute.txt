@@ -1,0 +1,10 @@
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\bin\Debug\ukolpole.exe.config
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\bin\Debug\ukolpole.exe
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\bin\Debug\ukolpole.pdb
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\obj\Debug\ukolpole.csproj.AssemblyReference.cache
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\obj\Debug\ukolpole.Form1.resources
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\obj\Debug\ukolpole.Properties.Resources.resources
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\obj\Debug\ukolpole.csproj.GenerateResource.cache
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\obj\Debug\ukolpole.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\obj\Debug\ukolpole.exe
+C:\Users\filip\OneDrive\Plocha\ukolpole\ukolpole\ukolpole\obj\Debug\ukolpole.pdb
